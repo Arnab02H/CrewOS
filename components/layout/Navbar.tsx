@@ -96,9 +96,10 @@ export function Navbar() {
           {/* Logo */}
           <a
             href="/"
-            className="text-2xl font-heading font-extrabold tracking-tight gradient-text"
+            className="flex items-center gap-3 text-2xl font-heading font-extrabold tracking-tight gradient-text"
           >
-            CrewOS
+            <img src="/logo.svg" alt="CrewOS logo" className="h-9 w-9 object-contain" />
+            <span>CrewOS</span>
           </a>
 
           {/* Desktop Nav */}

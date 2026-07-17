@@ -43,6 +43,9 @@ export const metadata: Metadata = {
     description:
       "Replace repetitive work with AI Employees that think, act, and execute like your best team members.",
   },
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({
