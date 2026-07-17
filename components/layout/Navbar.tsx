@@ -98,7 +98,11 @@ export function Navbar() {
             href="/"
             className="flex items-center gap-3 text-2xl font-heading font-extrabold tracking-tight gradient-text"
           >
-            <img src="/logo.png" alt="CrewOS logo" className="h-9 w-9 object-contain" />
+            <img
+              src="/logo.png"
+              alt="CrewOS logo"
+              className="h-11 w-11 rounded-2xl border border-slate-200 bg-white p-1 object-contain shadow-sm"
+            />
             <span>CrewOS</span>
           </a>
 
