@@ -44,7 +44,7 @@ export const metadata: Metadata = {
       "Replace repetitive work with AI Employees that think, act, and execute like your best team members.",
   },
   icons: {
-    icon: "/favicon.ico",
+    icon: "/logo.png",
   },
 };
 
